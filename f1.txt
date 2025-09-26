@@ -1,0 +1,6 @@
+total 13
+drwxr-xr-x 1 afcab 197609  0 Sep 25 19:28 ./
+drwxr-xr-x 1 afcab 197609  0 Sep 25 19:14 ../
+drwxr-xr-x 1 afcab 197609  0 Sep 25 19:14 .git/
+-rw-r--r-- 1 afcab 197609  0 Sep 25 19:28 f1.txt
+-rw-r--r-- 1 afcab 197609 12 Sep 25 19:27 f2.txt

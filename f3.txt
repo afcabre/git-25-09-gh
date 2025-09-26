@@ -1,0 +1,5 @@
+total 5
+drwxr-xr-x 1 afcab 197609   0 Sep 28 15:16 ./
+drwxr-xr-x 1 afcab 197609   0 Sep 25 19:50 ../
+-r--r--r-- 1 afcab 197609 146 Sep 25 19:50 a287529e91abbcfd3e41f41a24a71a566a1802
+-rw-r--r-- 1 afcab 197609   0 Sep 28 15:16 f3.txt
